@@ -235,14 +235,6 @@ Eine detaillierte Anleitung zur Bedienung des Spiels findest du in der [HowToPla
 
 ---
 
-## 🙏 Danksagung
-
-- **TU Dortmund** – Softwarepraktikum Team
-- **BoardGameWork** – Framework für Brettspiel-Entwicklung
-- **Blokus** – Originalspiel von Bernard Tavitian
-
----
-
 ## 📄 Lizenz
 
 Dieses Projekt wurde für Bildungszwecke erstellt.
