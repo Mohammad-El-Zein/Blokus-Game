@@ -76,7 +76,6 @@
 | 🔄 **Rotation/Spiegeln** | Steine drehen und spiegeln |
 | 📊 **Punkteberechnung** | Basic & Advanced Scoring |
 | ⚡ **Bot-Geschwindigkeit** | Einstellbare Simulationsgeschwindigkeit |
-| 🌍 **Mehrsprachig** | Deutsch & Englisch |
 
 ---
 
@@ -129,7 +128,7 @@ src/
 ├── main/kotlin/
 │   ├── entity/          # Spielobjekte (Board, Player, Tile)
 │   ├── service/         # Spiellogik & Netzwerk
-│   └── view/            # UI-Komponenten (BGW)
+│   └── gui/            # UI-Komponenten (BGW)
 └── test/kotlin/         # Unit Tests
 ```
 
@@ -171,13 +170,13 @@ cd Blokus-Game
 <summary>🖼️ Screenshots anzeigen</summary>
 
 ### Hauptmenü
-![Main Menu](docs/screenshots/main-menu.png)
+![Main Menu](docs/main-menu.png)
 
 ### Spielfeld
-![Game Board](docs/screenshots/game-board.png)
+![Game Board](docs/game-board.png)
 
 ### Spielende
-![Game Over](docs/screenshots/game-over.png)
+![Game Over](docs/game-over.png)
 
 </details>
 
