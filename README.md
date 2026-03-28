@@ -12,12 +12,35 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Mohammad-El-Zein/Blokus-Game/releases/latest">⬇️ Download</a> •
   <a href="#features">✨ Features</a> •
   <a href="#spielregeln">📖 Spielregeln</a> •
   <a href="#installation">📦 Installation</a> •
-  <a href="#screenshots">📸 Screenshots</a> •
   <a href="https://github.com/Mohammad-El-Zein/Blokus-Game/wiki">📚 Wiki</a>
 </p>
+
+---
+
+## 🚀 Schnellstart
+
+<table>
+<tr>
+<td>
+
+### ⬇️ [Download Blokus Game v1.0](https://github.com/Mohammad-El-Zein/Blokus-Game/releases/latest)
+
+</td>
+</tr>
+</table>
+
+1. **Download:** Klicke auf den Link oben und lade `Blokus-Game-v1.0.zip` herunter
+2. **Entpacken:** Entpacke die ZIP-Datei
+3. **Starten:** Gehe zu `bin/` und doppelklicke auf:
+   - **Windows:** `Projekt2.bat`
+   - **Mac/Linux:** `Projekt2`
+4. **Spielen!** 🎮
+
+> 💡 *Keine Installation nötig – einfach entpacken und spielen!*
 
 ---
 
@@ -115,13 +138,15 @@ src/
 
 ---
 
-## 📦 Installation
+## 📦 Installation (für Entwickler)
+
+Falls du den Code selbst kompilieren möchtest:
 
 ### Voraussetzungen
 - JDK 17+
 - Gradle 8.x
 
-### Starten
+### Bauen & Starten
 
 ```bash
 # Repository klonen
@@ -130,6 +155,9 @@ cd Blokus-Game
 
 # Spiel starten
 ./gradlew run
+
+# Oder Distribution erstellen
+./gradlew installDist
 ```
 
 ### Tests ausführen
