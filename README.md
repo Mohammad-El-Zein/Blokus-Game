@@ -182,12 +182,12 @@ cd Blokus-Game
 
 ---
 
-## 📊 UML Diagramme
+## 📊 UML Diagramme and Dokumentation 
 
 Die vollständige Dokumentation findest du im [Wiki](https://github.com/Mohammad-El-Zein/Blokus-Game/wiki):
 
 - [📐 Klassendiagramm](https://github.com/Mohammad-El-Zein/Blokus-Game/wiki/Design)
-- [🔄 Sequenzdiagramme](https://github.com/Mohammad-El-Zein/Blokus-Game/wiki/Sequences)
+- [🔄 Dokumentattion](https://github.com/Mohammad-El-Zein/Blokus-Game/wiki/Documentation)
 
 ---
 
@@ -200,7 +200,7 @@ Blokus-Game/
 │   │   └── kotlin/
 │   │       ├── entity/        # Datenmodelle
 │   │       ├── service/       # Geschäftslogik
-│   │       └── view/          # Benutzeroberfläche
+│   │       └── gui/          # Benutzeroberfläche
 │   └── test/
 │       └── kotlin/            # Unit Tests
 ├── docs/                      # UML Diagramme
@@ -248,7 +248,3 @@ Eine detaillierte Anleitung zur Bedienung des Spiels findest du in der [HowToPla
 Dieses Projekt wurde für Bildungszwecke erstellt.
 
 ---
-
-<p align="center">
-  <strong>⭐ Wenn dir das Projekt gefällt, gib ihm einen Stern! ⭐</strong>
-</p>
