@@ -13,9 +13,6 @@
 
 <p align="center">
   <a href="https://github.com/Mohammad-El-Zein/Blokus-Game/releases/latest">⬇️ Download</a> •
-  <a href="#features">✨ Features</a> •
-  <a href="#spielregeln">📖 Spielregeln</a> •
-  <a href="#installation">📦 Installation</a> •
   <a href="https://github.com/Mohammad-El-Zein/Blokus-Game/wiki">📚 Wiki</a>
 </p>
 
