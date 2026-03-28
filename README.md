@@ -30,9 +30,9 @@
 </tr>
 </table>
 
-1. **Download:** Klicke auf den Link oben und lade `Blokus-Game-v1.0.zip` herunter
+1. **Download:** Klicke auf den Link oben und lade `Play-BlokusGame-v1.0.zip` herunter
 2. **Entpacken:** Entpacke die ZIP-Datei
-3. **Starten:** Gehe zu `bin/` und doppelklicke auf:
+3. **Starten:** Gehe zu `distribution/bin/` und doppelklicke auf:
    - **Windows:** `Projekt2.bat`
    - **Mac/Linux:** `Projekt2`
 4. **Spielen!** 🎮
