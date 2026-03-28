@@ -186,7 +186,7 @@ cd Blokus-Game
 
 Die vollständige Dokumentation findest du im [Wiki](https://github.com/Mohammad-El-Zein/Blokus-Game/wiki):
 
-- [📐 Klassendiagramm](https://github.com/Mohammad-El-Zein/Blokus-Game/wiki/Design)
+- [📐 Klassendiagramm](https://github.com/Mohammad-El-Zein/Blokus-Game/wiki/git)
 - [🔄 Dokumentattion](https://github.com/Mohammad-El-Zein/Blokus-Game/wiki/Documentation)
 
 ---
